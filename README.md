@@ -5,4 +5,6 @@ Examples of new features and try outs
 
 * CompletableFuture example : A simple usage of CompletableFuture. Shows that it really happens asynchronously.
 
+* Parallel Stream with custom executor example : Collection parallel stream example where custom executor is supplied
+
 
